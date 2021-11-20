@@ -17,6 +17,7 @@
 ### Some of the predicted images are as follows:
 ### Insulator in good condition
 <img src = "https://raw.githubusercontent.com/yushendye/Insulator-Defect-Detection/main/1.jpg">
+
 ### Insulators in good condition, having defect in some part
 <img src = "https://raw.githubusercontent.com/yushendye/Insulator-Defect-Detection/main/2.jpg">
 <img src = "https://raw.githubusercontent.com/yushendye/Insulator-Defect-Detection/main/3.jpg">
