@@ -9,10 +9,10 @@
 ### To understand how I performed training, have a look at <a href = "https://github.com/yushendye/Insulator-Defect-Detection/blob/main/YOLO_v4_Insulator_Training.ipynb"> this </a> notebook
 
 ### Train mAP calculated on 648 training images <br>
-<img src = "https://raw.githubusercontent.com/yushendye/Insulator-Defect-Detection/main/train_map.png" height = "500" width = "1000">
+<img src = "https://raw.githubusercontent.com/yushendye/Insulator-Defect-Detection/main/train_map.png" height = "*" width = "1000">
 
 ### Test mAP calculated on 204 test images<br>
-<img src = "https://raw.githubusercontent.com/yushendye/Insulator-Defect-Detection/main/test_map.png" height = "500" width = "1000">
+<img src = "https://raw.githubusercontent.com/yushendye/Insulator-Defect-Detection/main/test_map.png" height = "*" width = "1000">
 
 ### Some of the predicted images are as follows:
 ### Insulator in good condition
